@@ -1,0 +1,2 @@
+This is just a test file. Practicing git commit, git pull, git status, 
+git log(press q to get out), git push and all other git commands
