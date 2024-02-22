@@ -1,2 +1,3 @@
 This is just a test file. Practicing git commit, git pull, git status, 
-git log(press q to get out), git push and all other git commands
+git log(press q to get out), git push and all other git commands.
+I am adding this text in the staging area to practice branches and merging
